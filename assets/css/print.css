@@ -1,0 +1,13 @@
+@media print{
+	header,
+	p img,
+	.sidebar,
+	.pag,
+	.comments_area,
+	footer{
+		display: none;
+	}
+	.post_content{
+		margin-top:30px;
+	}
+}

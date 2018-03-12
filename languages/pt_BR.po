@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimag\n"
+"POT-Creation-Date: 2018-02-15 11:36-0200\n"
+"PO-Revision-Date: 2018-02-15 11:38-0200\n"
+"Last-Translator: \n"
+"Language-Team: Mar\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: header.php:70
+msgid "Did you see?"
+msgstr "Você já viu?"
+
+#: header.php:99
+msgid "FOLLOW"
+msgstr "SIGA"
+
+#: searchform.php:2
+msgid "Type something"
+msgstr "Digite Alguma Coisa"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Pesquisar"
